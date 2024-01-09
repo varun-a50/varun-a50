@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![MasterHead](https://giphy.com/embed/10zxDv7Hv5RF9C)](https://github.com/varun-a50)
+[![MasterHead](https://spectacular-hamster-18b668.netlify.app)](https://github.com/varun-a50)
 <h1 align="center">Hi 👋, I'm Varun Bhosle</h1>
 <h3 align="center">A passionate Polyglot Full Stack Developer</h3>
-<img alt="Hii There!" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="Hii There!" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-a50&label=Profile%20views&color=0e75b6&style=flat" alt="varun-a50" /> </p>
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-a50&show_icons=true&locale=en" alt="varun-a50" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-a50&" alt="varun-a50" /></p>
+
